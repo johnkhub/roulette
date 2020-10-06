@@ -1,0 +1,8 @@
+Tiki_Monkey,0.0
+Barbara,3.0
+Tiki_Monkey,98.0
+Barbara,3.0
+Tiki_Monkey,0.0
+Barbara,0.0
+Tiki_Monkey,0.0
+Barbara,0.0
